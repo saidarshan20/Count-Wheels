@@ -1,10 +1,18 @@
-# Vehicle Counting Python Script
+# CountMyCar Python Script
 
 ## Overview
-This Python script detects and counts vehicles in video streams using computer vision techniques. It integrates object detection and tracking algorithms to accurately identify and count vehicles as they move through the video frames.
+CountMyCar is a vehicle counting application that uses computer vision to detect and count the number of cars in a video or real-time footage. This project can be used for traffic management, parking systems, and general vehicular data collection.
 
 ## Features
-- Detects vehicles using state-of-the-art object detection algorithms.
-- Implements object tracking mechanisms for continuous tracking of vehicles.
-- Provides real-time vehicle counting functionality.
-- Optimized for performance, ensuring efficient processing of video streams.
+- Real-time vehicle detection: Uses OpenCV and machine learning models to detect vehicles.
+- Accurate car counting: Provides reliable vehicle counts in different environments.
+- Flexible input: Accepts both video footage and live camera feeds.
+- Visual representation: Displays bounding boxes around detected vehicles.
+
+## Technologies Used
+- Python
+- OpenCV
+- TensorFlow/Keras
+- NumPy
+- Matplotlib
+
