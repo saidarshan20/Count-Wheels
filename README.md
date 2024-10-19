@@ -1,4 +1,4 @@
-# CountMyCar Python Script
+# CountWheels Python Script
 
 ## Overview
 CountMyCar is a vehicle counting application that uses computer vision to detect and count the number of cars in a video or real-time footage. This project can be used for traffic management, parking systems, and general vehicular data collection.
